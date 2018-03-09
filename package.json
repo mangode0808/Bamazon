@@ -1,0 +1,32 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon Market",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mangode0808/Bamazon.git"
+  },
+  "keywords": [
+    "Bamazon"
+  ],
+  "author": "Mango Dulguun Enkhsaikhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mangode0808/Bamazon/issues"
+  },
+  "homepage": "https://github.com/mangode0808/Bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "color": "^3.0.0",
+    "fs": "0.0.1-security",
+    "mysql": "^2.15.0",
+    "node": "^9.8.0",
+    "prompt": "^1.0.0",
+    "safe": "^0.4.6",
+    "weather-js": "^2.0.0"
+  }
+}
